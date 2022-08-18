@@ -16,6 +16,9 @@ h4 {
     color: gray;
 }
 
+h5 {
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
 
 div {
     width: 300px;
