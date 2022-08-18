@@ -5,8 +5,15 @@ body {
     margin: 0;
 }
 
-h1,h4{
+
+
+h1,
+h4 {
     font-style: italic;
+}
+
+h4 {
+    color: gray;
 }
 
 
