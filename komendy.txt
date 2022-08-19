@@ -1,0 +1,6 @@
+instalacja hatml-validate
+npm install --save-dev html-validate
+
+uruchomienie html-validate
+html-validate index.html
+npm exec html-validate index.html
